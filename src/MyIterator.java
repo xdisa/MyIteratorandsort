@@ -27,7 +27,7 @@ public class MyIterator {
             }
         };
     }
-
+//
     public static void main(String[] args) {
         Integer[] integers = new Integer[]{3, 6, 5, 7, 4, 5};
 

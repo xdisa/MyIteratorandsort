@@ -24,7 +24,7 @@ public class CharacterCounter {
         System.out.println(sortByValue(map));
 
     }
-//SORT
+//SORT//
     public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map ) {
         List<Map.Entry<K, V>> list =
             new LinkedList<>(map.entrySet());
